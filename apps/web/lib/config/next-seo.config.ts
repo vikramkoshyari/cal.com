@@ -27,7 +27,7 @@ export const seoConfig: {
   defaultNextSeo: DefaultSeoProps;
 } = {
   headSeo: {
-    siteName: "VWO.com",
+    siteName: "Wingify.com",
   },
   defaultNextSeo: {
     twitter: {
